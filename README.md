@@ -24,3 +24,5 @@ Architecture is quiet simple and primitive:
 * index.php is Front Controller calling modules(model) and passing data to templates(view)  
 * modules(model) are in folder 'modules'. Unlike Maestro v1 and Maestro v2, there is no masterclass and modules are not object. Instead, they follow Drupal-style logic and are just fuctions. If you make call 'http://yoursite.com/module/action/params' then function 'module_action' would be called from 'modules/module.php' with your params.
 * tpl - place where templates(views) are stored. 
+
+For detailed description of functions please refer 'engine' repository.
