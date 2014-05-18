@@ -1,0 +1,68 @@
+﻿
+sitename = Coral Club in Hamburg
+sitename2 = unabhängiger Distributor Website
+coral-club.com = Offizielle Seite <br> coral-club.com &rarr;
+
+pages = Seiten
+404 page not found = Fehler 404 - nichts gefunden
+
+logout = Abmelden
+control panel = Schalttafel
+modules = Modulen
+add content = Hinzufügen
+create new page = Neue Seite hinzufügen
+create new news item = Nachricht schreiben
+
+list of pages = Liste der Seiten
+edit page = Seite bearbeiten
+add new = Hinzufügen
+url = URL
+title = Name
+isactive = Aktivieren
+options = Optionen
+edit = bearb.
+del = löschen
+public = Position
+text =  Inhalt
+lang = Sprache
+yes = Ja
+no = Nein
+shorttext = Kurze Beschreibung
+time = Zeit
+
+
+read more = Mehr
+
+list of news = Nachrichten
+login = Anmelden
+pass = Passwort
+
+dev = Entwickelt von
+hidden = Geheimnis
+visible = Publiziert
+main menu = In Hauptmenu
+first page = Erste Seite
+bottom = Unten
+products = Artikel
+add new product = Artikel hinzufügen
+
+name surname = Vorname Name
+dob = Geburtsdatum
+address phone = Heimadresse und Telefonnummer
+youremail = Heimadresse und Telefonnummer
+product list =  Artikelliste (Name, Nummer)
+additional info = Zusätzliche Informationen (Fragen, Anregungen)
+
+news = Nachrichten
+orders = Bestellungen
+list of orders = Bestellungsliste
+email = Email
+name = Name
+submitted = Auftragszeit
+edit orders = Bestellung bearbeiten
+
+order submitted = Vielen Dank für Ihre Bestellung!
+order submitted text = Ihre Bestellung wurde erfolgreich empfangen! Vielen Dank für Ihre Bestellung!
+
+programs = Programm
+create new program = Neue Programm erstellen

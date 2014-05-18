@@ -1,0 +1,67 @@
+
+sitename =  Coral Club in Hamburg
+sitename2 = independent distributor website
+coral-club.com = Official website <br> coral-club.com &rarr;
+
+pages = Pages
+news = News
+404 page not found = 404 - page not found
+
+logout = Logout
+control panel = Control panel
+modules = Modules
+add content = Add content
+create new page = Create new page
+create new news item = Write news
+
+list of pages = List of pages
+edit page = Edit page
+add new = Add
+url = URL
+title = Title
+isactive = Is active
+options = Options
+public = Page position
+text =  Text
+lang = Language
+yes = Yes
+no = No
+shorttext = Short text
+time = Time
+
+
+read more = Read more
+
+list of news = List of news
+login = Login
+pass = Password
+
+dev = Developed by
+hidden = Hidden
+visible = Visible
+main menu = In main menu
+first page = First page
+bottom = Bottom
+products = Products
+add new product = Add product
+
+name surname = Name, surname
+dob = Date of birth
+address phone = Adress and phone number
+youremail = Adress and phone number
+product list =  Product list (name, quantity)
+additional info = Additional information (questions, suggestions
+
+
+orders = Orders
+list of orders = List of orders
+email = Email
+name = Name
+submitted = Order time
+edit orders = Edit order
+
+order submitted = Thank you for your order!
+order submitted text = Your order successfully submitted! Thank you for your order!
+
+programs = Programs
+create new program = Create new program
